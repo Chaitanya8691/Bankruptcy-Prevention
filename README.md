@@ -55,3 +55,6 @@ Following are the details of the qualitative risk factors which mentions their r
 + Competitiveness : Market position, The level of core capacities, Differentiated strategy,
 
 + Operating Risk (OP): The stability and diversity of procurement, The stability of transaction, The efficiency of production, The prospects for demand for product and service, Sales diversification, Sales price and settlement condition, Collection of A/R, Effectiveness of sale network.
+
+# Resource
+https://archive.ics.uci.edu/ml/datasets/qualitative_bankruptcy
